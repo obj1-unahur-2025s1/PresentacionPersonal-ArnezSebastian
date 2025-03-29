@@ -4,8 +4,8 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Sebastian Luis Arnez
+- Vivo en Ituzaingo
 
 
 ### Otra Información
