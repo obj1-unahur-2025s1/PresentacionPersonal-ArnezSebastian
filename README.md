@@ -9,5 +9,6 @@
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Este es mi primer contacto con github.
+- Me encanta dibujar y componer música.
+- Tengo un loro que se llama Pipi.
